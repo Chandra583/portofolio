@@ -81,6 +81,18 @@
       font-size: 1.75rem;
     }
   }
+  .h-text {
+    font-size: 1rem;
+    font-weight: 500;
+    font-weight: bold;
+    text-align: left;
+    color: var(--black-color);
+    line-height: 1.5;
+  
+    @media screen and (min-width: 2000px) {
+      font-size: 1.75rem;
+    }
+  }
   
   .bold-text {
     font-size: 1rem;
